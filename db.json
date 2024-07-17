@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "title": "Equipo Front End #AluraMás",
+      "category": "Frontend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVDEFcK8QGfSJmgw1DjeM203GRH3hX_rNyQ&s",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "description": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End. ¿Quieres saber más?"
+    },
+    {
+      "title": "Equipo Front End #AluraMás",
+      "category": "Frontend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVDEFcK8QGfSJmgw1DjeM203GRH3hX_rNyQ&s",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "description": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End. ¿Quieres saber más?"
+    },
+    {
+      "title": "Equipo Front End #AluraMás",
+      "category": "Frontend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVDEFcK8QGfSJmgw1DjeM203GRH3hX_rNyQ&s",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "description": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End. ¿Quieres saber más?"
+    },
+    {
+      "title": "Cómo ser más productivo",
+      "category": "Innovacion y Gestion",
+      "image": "https://i0.wp.com/danielaza.com/wp-content/uploads/2020/04/como-ser-mas-productivo.jpg?fit=957%2C718&ssl=1",
+      "video": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "description": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+    },
+    {
+      "title": "Cómo ser más productivo",
+      "category": "Innovacion y Gestion",
+      "image": "https://i0.wp.com/danielaza.com/wp-content/uploads/2020/04/como-ser-mas-productivo.jpg?fit=957%2C718&ssl=1",
+      "video": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "description": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+    },
+    {
+      "title": "Cómo ser más productivo",
+      "category": "Innovacion y Gestion",
+      "image": "https://i0.wp.com/danielaza.com/wp-content/uploads/2020/04/como-ser-mas-productivo.jpg?fit=957%2C718&ssl=1",
+      "video": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "description": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+    },
+    {
+      "id": "0d40",
+      "title": "¿Cuál es la diferencia entre Front End y Back End?",
+      "category": "Backend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4n875Re3uxTjgX8UsNbFfbrQcCqPT9La6w&s",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web."
+    },
+    {
+      "id": "0d40",
+      "title": "¿Cuál es la diferencia entre Front End y Back End?",
+      "category": "Backend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4n875Re3uxTjgX8UsNbFfbrQcCqPT9La6w&s",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web."
+    },
+    {
+      "id": "0d40",
+      "title": "¿Cuál es la diferencia entre Front End y Back End?",
+      "category": "Backend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4n875Re3uxTjgX8UsNbFfbrQcCqPT9La6w&s",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web."
+    },
+    {
+      "id": "330b",
+      "title": "Hola",
+      "category": "Backend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4n875Re3uxTjgX8UsNbFfbrQcCqPT9La6w&s",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "defrgt"
+    },
+    {
+      "id": "47b8",
+      "title": "Hola",
+      "category": "Frontend",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4n875Re3uxTjgX8UsNbFfbrQcCqPT9La6w&s",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "lokiju"
+    }
+  ]
+}
