@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "01",
+      "title": "Equipo Front End #AluraMás",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "description": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End. ¿Quieres saber más?"
+    },
+    {
+      "id": "02",
+      "title": "Como utilizar el Display block, inline, inline-block ",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/AG2QssLpQzI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=AG2QssLpQzI",
+      "description": "Sabemos que posicionar elementos utilizando CSS a veces puede ser algo desafiador, por eso en este video nuestra instructora Jeanmarie Quijada te explica que es la propiedad Display en CSS y algunos de sus valores, te mostrara en código el comportamiento del elemento DIV al utilizar algunos de los valores de la propiedad display como: block, inline y inline block."
+    },
+    {
+      "id": "03",
+      "title": "Cómo ser más productivo",
+      "category": "Innovacion y Gestion",
+      "image": "https://i.ytimg.com/vi/TF_Rde1kbw8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "description": "En este video, Gabriela Aguiar, nos explicará sobre la productividad y exploraremos técnicas probadas y estrategias innovadoras para impulsar tu eficiencia."
+    },
+    {
+      "id": "04",
+      "title": "¿Cuál Herramienta de Gestión de Proyectos es la Mejor para Ti?",
+      "category": "Innovacion y Gestion",
+      "image": "https://i.ytimg.com/vi/O4cxvckONRE/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=O4cxvckONRE",
+      "description": "En este AluraTips, Ellen Pimentel comparte su trayectoria en la gestión de proyectos, comenzando desde su formación en Turismo hasta su transición a la programación y su rol actual en Alura."
+    },
+    {
+      "id": "05",
+      "title": "Simplificando el Back End",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/XuSXJ9DUcvY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=XuSXJ9DUcvY",
+      "description": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla."
+    },
+    {
+      "id": "0d40",
+      "title": "¿Cuál es la diferencia entre Front End y Back End?",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+      "description": "¿Cuál es la diferencia entre Front End y Back End?  En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web."
+    },
+    {
+      "id": "ef1b",
+      "title": "¿Por qué utilizar React con Typescript? ",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/RLZ7-ZfkwOE/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=RLZ7-ZfkwOE",
+      "description": "¿React con JavaScript o React con TypeScript? En este video, te mostramos las diferencias clave entre usar React con JavaScript y hacerlo con TypeScript. Exploramos las ventajas de cada enfoque, cómo impactan en la productividad y la calidad del código, y cuál puede ser la mejor opción para tu proyecto. ¡Descubre cuál es ideal para ti!\n"
+    },
+    {
+      "id": "6e87",
+      "title": "La importancia de UX para Front End",
+      "category": "Frontend",
+      "image": "https://i.ytimg.com/vi/xxYOWp0UVCY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=xxYOWp0UVCY",
+      "description": "¿Sabías que un buen diseño de UX (User Experience) es esencial para el éxito de cualquier proyecto de Front End? En este video, nuestra instructora Barbara nos explica la conexión entre UX y el desarrollo Front End, y por qué es crucial que los desarrolladores entiendan y apliquen principios de UX en su trabajo diario."
+    },
+    {
+      "id": "eacd",
+      "title": "¿Qué son las metodologías ágiles?",
+      "category": "Innovacion y Gestion",
+      "image": "https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "description": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+    },
+    {
+      "id": "48ea",
+      "title": "La magia detrás de Java ",
+      "category": "Backend",
+      "image": "https://i.ytimg.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+      "description": "Sabemos que el ecosistema de Java es una sopa de letras con varias siglas, y la JVM (Java Virtual Machine) es una de ellas. En este video, nuestra instructora Ellen Pimentel explica su rol y características y es más simple que la magia, es decir, de lo que uno imagina."
+    }
+  ]
+}
