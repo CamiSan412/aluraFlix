@@ -33,7 +33,7 @@ const CategorySection = ({ category, videos, setVideos }) => {
 
   const handleDelete = async (id) => {
       try{
-        const response = await fetch(`http://localhost:3002/videos/${id} `, {
+        const response = await fetch(`https://aluraflix-t1pa.onrender.com/videos/${id} `, {
           method: 'DELETE',
         })
         if (!response.ok) throw new Error('Error al eliminar')    
@@ -52,7 +52,7 @@ const CategorySection = ({ category, videos, setVideos }) => {
 
   const handleEditVideo = async (updatedVideo) => {
     try{
-      const response = await fetch( `http://localhost:3002/videos/${updatedVideo.id} `, {
+      const response = await fetch( `https://aluraflix-t1pa.onrender.com/videos/${updatedVideo.id} `, {
         method:'PUT',
         headers:{
           "Content-Type": "application/json",          

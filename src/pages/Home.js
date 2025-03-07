@@ -12,7 +12,7 @@ const Home = () => {
 
   useEffect(() => {
     // Reemplaza la URL con la ruta correcta a tu json-server
-    fetch('http://localhost:3002/videos')
+    fetch('https://aluraflix-t1pa.onrender.com/videos')
       .then(response => response.json())
       .then(data => {
         console.log('Datos recibidos', data)
